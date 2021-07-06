@@ -10,5 +10,3 @@ As for the rest:
 - 🧍 he, him
 - 📫 pwychowaniec [@at@] pm.me (or https://keybase.io/patryk27)
 - 🏢 [Anixe](https://anixe.pl/)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H24VB67)
