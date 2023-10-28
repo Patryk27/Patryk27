@@ -8,5 +8,5 @@ Here you can read about my adventures:
 As for the rest:
 
 - 🧍 he, him
-- 📫 pwychowaniec [@at@] pm.me (or https://keybase.io/patryk27)
+- 📫 pwychowaniec [@at@] pm.me
 - 🏢 [Anixe](https://anixe.pl/)
