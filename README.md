@@ -8,6 +8,5 @@ You can read about my adventures at:
 As for the rest:
 - 🧍 he, him
 - 📫 pwychowaniec [@at@] pm.me (here's [*.asc](https://pwy.io/pwy.asc), if you're into that)
-- 🏢 [Anixe](https://anixe.pl/)
 
 You can also [buy me a coffee](https://www.buymeacoffee.com/pwychowaniec)!
