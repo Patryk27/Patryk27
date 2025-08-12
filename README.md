@@ -6,4 +6,4 @@ I'm Patryk - a software developer who likes to throw algorithms at stuff and see
 - 🕸️ https://pwy.io
 - 📫 pwychowaniec [@at@] pm.me ([pwy.asc](https://pwy.io/pwy.asc))    
 
-If you like my work, you can [buy me a coffee](https://www.buymeacoffee.com/pwychowaniec)! 
+Note that nowadays most of my repositores are hosted on codeberg.org - <https://codeberg.org/pwy>.
